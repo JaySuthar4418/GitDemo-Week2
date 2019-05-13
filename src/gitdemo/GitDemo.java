@@ -24,7 +24,7 @@ public class GitDemo
         
         for (i=0;i>5;i++)
         {
-            system.out.print (a+" ");
+            System.out.print (a[i] +" ");
         }
         
     }
