@@ -9,11 +9,10 @@ package gitdemo;
  *
  * @author Jay
  */
-public class GitDemo {
+public class GitDemo 
+{
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args, int i)
     {
         int [] a = new int[5];
@@ -25,7 +24,7 @@ public class GitDemo {
         
         for (i=0;i>5;i++)
         {
-            system.out.print (a + " ");
+            system.out.print (a+" ");
         }
         
     }
